@@ -20,7 +20,7 @@
 
 # Flow
 
-![Alt text](./public/flow.jpeg)
+![Alt text](./screens/flow.jpeg)
 
 Weather Input → User Form/Preferences → Camera scan → Style + skin tone detection
 → Backend request → Pinecone fetch + trend mapping → Outfit recs → UI renders
