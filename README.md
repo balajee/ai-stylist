@@ -1,3 +1,38 @@
+# 🧠 AI Stylist
+
+AI Stylist is a smart, fashion-forward AI assistant that helps users find clothing and styles that match their preferences and physical features. Built with modern web technologies and AI models, this tool bridges personal style with machine intelligence.
+
+Whether you're a fashion tech startup, an indie developer, or just a curious user—AI Stylist can help you explore how AI can personalize fashion experiences at scale.
+
+# ✨ Features
+
+Face & Skin Tone Analysis: Uses MediaPipe FaceMesh and TensorFlow.js to detect skin tone, face shape, and age range.
+
+Live Webcam Detection: Real-time user analysis through your webcam.
+
+Fashion Style Recommendation: Suggests clothing styles and color palettes that suit your facial features.
+
+AI Avatar Preview: Visualize your personalized style on an AI-generated avatar.
+
+Responsive UI: Built with React and Tailwind CSS for seamless cross-device performance.
+
+# 📸 Use Case
+
+This tool is ideal for:
+
+Fashion e-commerce platforms
+
+Personal styling assistants
+
+Virtual try-on experiences
+
+Makeup and skincare advisors
+
+Custom clothing or jewelry fit suggestions
+
+📬 Contact
+Have a question or idea? Reach out via issues or connect with https://www.linkedin.com/in/balajeed/
+
 # Design
 
 <img src="./screens/screen_1.png" alt="Design Screenshot" width="200" />
