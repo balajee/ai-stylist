@@ -1,4 +1,32 @@
-# React + TypeScript + Vite
+# Design
+
+<img src="./screens/screen_1.png" alt="Design Screenshot" width="200" />
+<img src="./screens/screen_2.png" alt="Design Screenshot" width="200" />
+<img src="./screens/screen_3.png" alt="Design Screenshot" width="200" />
+<img src="./screens/screen_4.png" alt="Design Screenshot" width="200" />
+
+# Frontend
+
+- React + Tailwind → UI, styling
+- TensorFlow.js & MediaPipe → Facial landmark detection
+- API requests to backend
+
+# Backend
+
+- Node.js → Logic, routing
+- Pinecone Assistant → Vector search for outfit - embeddings (Moved to Vector DB but some
+  more time is required)
+- OpenWeatherMap API → Real-time weather
+
+# Flow
+
+![Alt text](./public/flow.jpeg)
+
+Weather Input → User Form/Preferences → Camera scan → Style + skin tone detection
+→ Backend request → Pinecone fetch + trend mapping → Outfit recs → UI renders
+suggestions
+
+# FrontEnd Configuration: React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
